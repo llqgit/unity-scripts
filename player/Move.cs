@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
+public class Move : MonoBehaviour {
 
     [Tooltip ("速度")]
     public float speed = 10; // 速度
